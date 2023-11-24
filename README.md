@@ -46,21 +46,6 @@ A missão da VibraTech Solutions é oferecer soluções integradas, combinando h
 Empregando uma abordagem nativa da nuvem full-stack, a VibraTech Solutions proporciona soluções personalizadas para impulsionar a eficiência operacional. Seus serviços oferecem insights valiosos e ações orientadas por dados, moldando um novo paradigma na indústria de monitoramento de ativos.
 
 
-## Dicas e Perguntas Frequentes
-
-- **Criação de Back-End:**
-  - Você pode criar sua própria API back-end, mas utilize Node.js para tal.
-
-- **Framework para Back-End:**
-  - Embora seja possível utilizar diferentes frameworks Node.js, é encorajado o uso de Nest.js.
-
-- **Utilização de Material UI:**
-  - O uso do Material UI 5 é obrigatório para este desafio.
-
-- **Dúvidas e Contato:**
-  - Em caso de dúvidas adicionais, entre em contato com [Calil](https://www.linkedin.com/in/calil-amaral-84005b67/), Coordenador de Desenvolvimento.
-
-Boa sorte! Estamos ansiosos para avaliar sua submissão. 🚀
 
 ## Funcionalidades Implementadas
 
