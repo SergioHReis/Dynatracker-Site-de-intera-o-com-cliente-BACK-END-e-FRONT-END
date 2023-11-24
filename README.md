@@ -5,17 +5,17 @@ Este repositório contém o código-fonte de um aplicativo robusto e intuitivo d
 
 ## Passos para Executar o Projeto Dynamox Full-Stack Developer Challenge
 
-1. **Criação do Ambiente:**
-   - Faça um fork deste repositório para a sua conta no Github.
 
-2. **Configuração do Ambiente de Desenvolvimento:**
+ 
+
+1. **Configuração do Ambiente de Desenvolvimento:**
    - Certifique-se de ter o Node.js instalado em seu sistema.
    - Instale as dependências do projeto. No terminal, navegue até a pasta do projeto clonado e execute:
      ```
      npm install
      ```
 
-3. **Desenvolvimento:**
+2. **Desenvolvimento:**
    - Para iniciar o servidor de desenvolvimento com Next.js, execute o comando:
      ```
      npm run dev
