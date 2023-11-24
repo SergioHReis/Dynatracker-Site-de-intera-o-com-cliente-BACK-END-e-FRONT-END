@@ -100,8 +100,7 @@ Explorar novas áreas foi uma oportunidade de crescimento. A transição desafia
 
 Estou empolgado com o que o futuro reserva e com as oportunidades de crescimento e aprendizado contínuo. Se precisar de mais orientações ou suporte ao longo desse caminho emocionante, estou aqui para ajudar!
 
-## Como Executar o Projeto
-Inclua instruções claras sobre como configurar e executar o aplicativo localmente.
+
 
 
 
