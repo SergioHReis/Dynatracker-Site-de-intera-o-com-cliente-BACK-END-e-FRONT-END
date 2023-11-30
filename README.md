@@ -1,4 +1,4 @@
-# Dynamox Full-Stack Developer Challenge
+# Dynamox Full-Stack Developer 
 
 Este repositório contém o código-fonte de um aplicativo robusto e intuitivo desenvolvido em React e TypeScript para melhorar os Canais Corporativos e a plataforma DynaPredict de monitorização de condição de ativos da Dynamox.
 
